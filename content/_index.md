@@ -6,9 +6,6 @@ header_button_cta:
 header_button_more:
   title: Schedule
   url: '#schedule'
-header_button_more:
-  title: Keynote speakers
-  url: '#keynote-speakers'
 header_tagline_paragraph: Warsaw University of Technology, 24-06-2022.
 teaser_image: images/logo.jpg
 ---
