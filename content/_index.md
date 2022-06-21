@@ -75,9 +75,16 @@ Dr. Maulik worked in many universities and research laboratories around the worl
 
 # Schedule
 
-|Time               |Title                                              |Instructor/Speaker        |
-|:------------------|:--------------------------------------------------|:-------------------------|
-|14:00&nbsp;- 14:30 |Opening talk                                       |Dariusz Plewczyński       |
-|17:00&nbsp;- 18:00 |Keynote: Machine Learning in Computational Biology |Sanghamitra Bandyopadhyay |
-|18:00&nbsp;- 19:00 |Keynote: Artificial Intelligence for Healthcare    |Ujjwal Maulik             |
+|Time               |Title                                                                                                                                       |Instructor/Speaker        |
+|:------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|
+|12:00&nbsp;- 12:10 |Opening talk                                                                                                                                |Dariusz Plewczyński       |
+|12:10&nbsp;- 12:35 |ConsensuSV - HPC-ready, ML-enhanced automated pipeline for Illumina-based variant detection                                                 |Mateusz Chiliński         |
+|12:35&nbsp;- 13:00 |Comparative analysis of the 3D structure of the genome of selected human lymphoblastoid cells based on ChIA-PET and HiChIP data             |Anastasiya Gurova         |
+|13:00&nbsp;- 13:25 |The dynamic role of Cohesin in the maintaining the genome architecture                                                                      |Ashutosh Choudhury        |
+|13:25&nbsp;- 13:35 |Break                                                                                                                                       |                          |
+|13:35&nbsp;- 14:00 |Drug repurposing for identification of potential spike inhibitors for SARS-CoV-2 using molecular docking and molecular dynamics simulations |Michał Łaźniewski         |
+|14:00&nbsp;- 14:25 |Computational modeling of human-nCoV interaction network                                                                                    |Anup Kumar Halder         |
+|14:25&nbsp;- 14:50 |The impact of negative data sampling on antimicrobial peptide prediction                                                                    |Michał Burdukiewicz       |
+|17:00&nbsp;- 18:00 |Keynote: Machine Learning in Computational Biology                                                                                          |Sanghamitra Bandyopadhyay |
+|18:00&nbsp;- 19:00 |Keynote: Artificial Intelligence for Healthcare                                                                                             |Ujjwal Maulik             |
 
