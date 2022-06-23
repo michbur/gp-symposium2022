@@ -18,7 +18,7 @@ raw_dat <- read_sheet("https://docs.google.com/spreadsheets/d/1M_epV5ABZISMvdrVO
 
 
 select(raw_dat, Time, Title, Speaker) %>% 
-  setNames(c("Time", "Title", "Instructor/Speaker")) %>% 
+  setNames(c("Time", "Title", "Speaker")) %>% 
   kable(escape = TRUE) %>% 
   print
 

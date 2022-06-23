@@ -75,16 +75,22 @@ Dr. Maulik worked in many universities and research laboratories around the worl
 
 # Schedule
 
-|Time               |Title                                                                                                                                       |Instructor/Speaker        |
-|:------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|
-|12:00&nbsp;- 12:10 |Opening talk                                                                                                                                |Dariusz Plewczyński       |
-|12:10&nbsp;- 12:35 |ConsensuSV - HPC-ready, ML-enhanced automated pipeline for Illumina-based variant detection                                                 |Mateusz Chiliński         |
-|12:35&nbsp;- 13:00 |Comparative analysis of the 3D structure of the genome of selected human lymphoblastoid cells based on ChIA-PET and HiChIP data             |Anastasiya Gurova         |
-|13:00&nbsp;- 13:25 |The dynamic role of Cohesin in the maintaining the genome architecture                                                                      |Ashutosh Choudhury        |
-|13:25&nbsp;- 13:35 |Break                                                                                                                                       |                          |
-|13:35&nbsp;- 14:00 |Drug repurposing for identification of potential spike inhibitors for SARS-CoV-2 using molecular docking and molecular dynamics simulations |Michał Łaźniewski         |
-|14:00&nbsp;- 14:25 |Computational modeling of human-nCoV interaction network                                                                                    |Anup Kumar Halder         |
-|14:25&nbsp;- 14:50 |The impact of negative data sampling on antimicrobial peptide prediction                                                                    |Michał Burdukiewicz       |
-|17:00&nbsp;- 18:00 |Keynote: Machine Learning in Computational Biology                                                                                          |Sanghamitra Bandyopadhyay |
-|18:00&nbsp;- 19:00 |Keynote: Artificial Intelligence for Healthcare                                                                                             |Ujjwal Maulik             |
+|Time               |Title                                                                                                                                               |Speaker                   |
+|:------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|
+|12:00&nbsp;- 12:10 |Opening talk                                                                                                                                        |Dariusz Plewczyński       |
+|12:10&nbsp;- 12:25 |Drug repurposing for identification of potential spike inhibitors for SARS-CoV-2 using molecular docking and molecular dynamics simulations         |Michał Łaźniewski         |
+|12:25&nbsp;- 12:40 |ConsensuSV - HPC-ready, ML-enhanced automated pipeline for Illumina-based variant detection                                                         |Mateusz Chiliński         |
+|12:40&nbsp;- 12:55 |Comparative analysis of the 3D structure of the genome of selected human lymphoblastoid cells based on ChIA-PET and HiChIP data                     |Anastasiya Gurova         |
+|12:55&nbsp;- 13:10 |The dynamic role of Cohesin in the maintaining the genome architecture                                                                              |Ashutosh Choudhury        |
+|13:10&nbsp;- 13:25 |Compartmentalisation detected by Hi-C and GAM - orthogonal methods in 3D structural genomics                                                        |Teresa Szczepińska        |
+|13:25&nbsp;- 13:40 |The cohesin-mediated looping of the human genome across cell lines.                                                                                 |Abhishek Agarwal          |
+|13:40&nbsp;- 13:50 |Break                                                                                                                                               |                          |
+|13:50&nbsp;- 14:05 |Intrinsic linking of chromatin in human cells                                                                                                       |Michał Denkiewicz         |
+|14:05&nbsp;- 14:20 |Multi-scale phase separation by explosive percolation with single chromatin loop resolution                                                         |Kaustav Sengupta          |
+|14:20&nbsp;- 14:35 |Super-resolution visualization of chromatin loop folding in human lymphoblastoid cells using interferometric photoactivated localization microscopy |Zofia Tojek               |
+|14:35&nbsp;- 14:50 |3D genome structures reconstruction                                                                                                                 |Krzysztof Banecki         |
+|14:50&nbsp;- 15:05 |Computational modeling of human-nCoV interaction network                                                                                            |Anup Kumar Halder         |
+|15:05&nbsp;- 15:20 |The impact of negative data sampling on antimicrobial peptide prediction                                                                            |Michał Burdukiewicz       |
+|17:00&nbsp;- 18:00 |Keynote: Machine Learning in Computational Biology                                                                                                  |Sanghamitra Bandyopadhyay |
+|18:00&nbsp;- 19:00 |Keynote: Artificial Intelligence for Healthcare                                                                                                     |Ujjwal Maulik             |
 
