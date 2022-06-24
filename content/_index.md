@@ -97,5 +97,6 @@ Dr. Maulik worked in many universities and research laboratories around the worl
 |14:30&nbsp;- 14:45 |Super-resolution visualization of chromatin loop folding in human lymphoblastoid cells using interferometric photoactivated localization microscopy |Zofia Tojek               |
 |14:45&nbsp;- 15:00 |Generative Adversarial Networks for Dataset Augmentation                                                                                            |Jakub Józefowicz          |
 |15:00&nbsp;- 15:15 |PartSeg - tool for reproducible segmentation of chromatin                                                                                           |Grzegorz Bokota           |
+|15:15&nbsp;- 17:00 |Break                                                                                                                                               |                          |
 |17:00&nbsp;- 18:00 |Keynote: Machine Learning in Computational Biology                                                                                                  |Sanghamitra Bandyopadhyay |
 |18:00&nbsp;- 19:00 |Keynote: Artificial Intelligence for Healthcare                                                                                                     |Ujjwal Maulik             |
