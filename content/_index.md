@@ -12,7 +12,11 @@ teaser_image: images/logo.jpg
 
 # Genomics Platform@WUT Symposium 2022
 
-To celebrate the second anniversary of its foundation, Genomics Platform@WUT organizes its second symposium on 24-06-2022 as a virtual conference. We cordially invite all researchers from Warsaw University of Technology interested in genomics and bioinformatics to participate in this event. Our venue is Faculty of Mathematics and Information Sciences of the Warsaw University of Technology (Koszykowa 75, 00-662 Warszawa, Poland), Lecture Room 101.
+To celebrate the second anniversary of its foundation, Genomics Platform@WUT organizes its second symposium on 24-06-2022 as a hybrid conference. We cordially invite all researchers from Warsaw University of Technology interested in genomics and bioinformatics to participate in this event. Our venue is Faculty of Mathematics and Information Sciences of the Warsaw University of Technology (Koszykowa 75, 00-662 Warszawa, Poland), Lecture Room 101.
+
+# Abstract book
+
+The abstract book is available [here](https://github.com/michbur/gp-symposium2022/raw/main/abstract-book.pdf).
 
 ---
 
